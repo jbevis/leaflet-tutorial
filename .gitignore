@@ -7,8 +7,8 @@
 *.o
 *.so
 
-*/key.js
-*/id.js
+key.js
+id.js
 
 # Packages #
 ############
