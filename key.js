@@ -1,0 +1,3 @@
+export default
+
+'pk.eyJ1IjoiYW5kZXJzd29vZCIsImEiOiJjajJtYTQxdmcwMG84MzJubm9jbmYwcmpkIn0.NDwIb-uL5eLXcmGTQka3_g'
